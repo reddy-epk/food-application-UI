@@ -1,2 +1,2 @@
 # food-application-UI
-A popular UI for  Food order Responsive website.
+Web Application that created by using only with Html5, css3 and bootstrap5, only a pure responsive website for better understanding on how does a responsive website works.
